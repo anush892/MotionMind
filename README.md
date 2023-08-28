@@ -13,7 +13,7 @@ MotionMind is an innovative project that enables real-time hand gesture recognit
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/MotionMind.git
+   git clone https://github.com/anush892/MotionMind.git
    ```
 
 2. Navigate to the project directory:
