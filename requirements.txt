@@ -1,0 +1,8 @@
+scikit-learn
+numpy
+pandas
+matplotlib
+tensorflow
+boto3
+opencv-python
+cvzone
