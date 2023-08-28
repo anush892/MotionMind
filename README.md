@@ -1,5 +1,4 @@
-```markdown
-# MotionMind: Real-Time Hand Gesture Recognition
+MotionMind: Real-Time Hand Gesture Recognition
 
 MotionMind is an innovative project that enables real-time hand gesture recognition to interact with computer applications using natural hand movements. This repository contains the source code and resources for the MotionMind project.
 
@@ -50,5 +49,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For inquiries or feedback, please contact [anushsharma892@gmail.com](mailto:anushsharma892@gmail.com).
-
-```
